@@ -1,6 +1,6 @@
-# Hi there, I'm shawnaks 👋
+# Hi there, I'm Shawnak 👋
 
-Welcome to my GitHub! I build full-stack web apps, machine-learning tools, and the occasional game — turning real-world problems (lost items, expensive flights, medication safety) into working software.
+Welcome to my GitHub! I build full-stack web apps, machine-learning tools, and more. I like turning real-world problems into working software.
 
 ## 🚀 Featured Projects
 
@@ -48,4 +48,3 @@ A self-contained turn-based battle that runs entirely in the browser.
 
 ---
 
-*Built with curiosity and too much coffee. ☕*
